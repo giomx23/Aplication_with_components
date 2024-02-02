@@ -1,6 +1,6 @@
 # fl_components
 
-A new Flutter project.
+A Flutter project with many currently utilized components.
 
 ## Getting Started
 
